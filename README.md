@@ -1,3 +1,3 @@
 # Create Origins & More
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/OfficiallyDragon/Create-Origins-And-More/main?style=for-the-badge&logo=github)
+![Modrinth Version](https://img.shields.io/modrinth/v/create-origins-and-more?style=for-the-badge&logo=modrinth)
 
