@@ -1,6 +1,3 @@
 # Create Origins & More
-[![Curseforge][curseImg]][curseLink]
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/OfficiallyDragon/Create-Origins-And-More/main?style=for-the-badge&logo=github)
 
-
-[curseImg]: https://cf.way2muchnoise.eu/project-architect.svg?badge_style=for_the_badge
-[curseLink]: https://www.curseforge.com/minecraft/modpacks/chosens-modded-adventure
