@@ -1,6 +1,6 @@
-# Create, Origins & More
-![Modrinth Version](https://img.shields.io/modrinth/v/create-origins-and-more?style=for-the-badge&logo=modrinth) ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/create-origins-and-more?style=for-the-badge&logo=modrinth)
+# Dragon's Create Modpack
+![Modrinth Version](https://img.shields.io/modrinth/v/dcm?style=for-the-badge&logo=modrinth) ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/dcm?style=for-the-badge&logo=modrinth)
 
 
 
-# [Modlist](https://github.com/OfficiallyDragon/Create-Origins-And-More/blob/main/Modlist.html)
+# [Modlist](https://github.com/OfficiallyDragon/dcm/blob/main/Modlist.html)
